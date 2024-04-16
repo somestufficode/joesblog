@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'Joseph Valentino\'s Blog',
+  title: 'Joseph Valentino',
   author: 'Joseph Valentino',
   email: 'joevalentino5@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://www.https://www.josephvalentino.net/',
   description: 'Sports Writer',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'America/New_York', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
