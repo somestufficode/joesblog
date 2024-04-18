@@ -3,7 +3,8 @@
     "INDEX": "Blog",
     "SEARCH": "Search",
     "ABOUT": "About",
-    "PORTFOLIO": "Portfolio"
+    "PORTFOLIO": "Portfolio",
+    "RESUME": "Resume"
   },
   "PAGINATION": {
     "PREV": "Prev",
