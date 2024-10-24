@@ -4,6 +4,7 @@ import Image from 'next/image'
 import { useConfig } from '@/lib/config'
 import { useLocale } from '@/lib/locale'
 import useTheme from '@/lib/theme'
+// refresh code build
 
 const NavBar = () => {
   const BLOG = useConfig()
